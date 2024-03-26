@@ -8,6 +8,6 @@ public class HelloWorldController {
     @GetMapping("/hello")
     public String helloWorld(){
         System.out.println("HelloLinux");
-        return "OK";
+        return "OKK";
     }
 }
